@@ -13,5 +13,6 @@ Try a fork and pull request from this repo. You name will go down as a contribut
 Join my meetup: https://www.meetup.com/londoniac
 
   * here's my website: www.londoniac.co.uk
+  * here is the news: https://www.bbc.co.uk/news
   
   
