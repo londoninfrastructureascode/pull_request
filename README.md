@@ -16,3 +16,4 @@ Join my meetup: https://www.meetup.com/londoniac
   * here is the news: https://www.bbc.co.uk/news
   * here's where I found this video: www.youtube.com/watch?v=nM_wNKuHTJw
   * found this video on youtube. Please, follow me on linkedin: https://www.linkedin.com/in/emeka-obidike-99167b20a/
+  * thanks for the video :)
