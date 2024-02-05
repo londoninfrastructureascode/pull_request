@@ -17,3 +17,4 @@ Join my meetup: https://www.meetup.com/londoniac
   * here's where I found this video: www.youtube.com/watch?v=nM_wNKuHTJw
   * found this video on youtube. Please, follow me on linkedin: https://www.linkedin.com/in/emeka-obidike-99167b20a/
   * I found this video from a yt channel : https://youtube.com/@LondonIAC
+  * I'm trying to understand git and how it works. Today is 05/02/2024
