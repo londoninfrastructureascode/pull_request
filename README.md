@@ -1,3 +1,8 @@
+## UPDATE
+For new people making changes and adding pull requests, please re-submit them. I had too many in a short period of time and because I didn;t merge them, new pull requests came in but caused a merge conflict. Now, it's been re-set please submit your merge requests again.
+
+*thanks*
+
 ## pull_request
 Try a fork and pull request from this repo. You name will go down as a contributer and be visable to anyone who visits.
 
