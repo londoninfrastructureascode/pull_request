@@ -16,6 +16,4 @@ Join my meetup: https://www.meetup.com/londoniac
 
 - **Visit our Website**: [Londoniac](https://www.londoniac.co.uk)
 
-- **Connect with me on LinkedIn**: [Emeka Obidike](https://www.linkedin.com/in/emeka-obidike-99167b20a/)
-
 - **Subscribe to our YouTube Channel**: [Londoniac on YouTube](https://youtube.com/@LondonIAC)
