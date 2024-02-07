@@ -12,8 +12,10 @@ Try a fork and pull request from this repo. You name will go down as a contribut
 
 Join my meetup: https://www.meetup.com/londoniac
 
-  * here's my website: www.londoniac.co.uk
-  * here is the news: https://www.bbc.co.uk/news
-  * here's where I found this video: www.youtube.com/watch?v=nM_wNKuHTJw
-  * found this video on youtube. Please, follow me on linkedin: https://www.linkedin.com/in/emeka-obidike-99167b20a/
-  * I found this video from a yt channel : https://youtube.com/@LondonIAC
+ - **Join our Meetup**: [Londoniac Meetup](https://www.meetup.com/londoniac)
+
+- **Visit our Website**: [Londoniac](https://www.londoniac.co.uk)
+
+- **Connect with me on LinkedIn**: [Emeka Obidike](https://www.linkedin.com/in/emeka-obidike-99167b20a/)
+
+- **Subscribe to our YouTube Channel**: [Londoniac on YouTube](https://youtube.com/@LondonIAC)
