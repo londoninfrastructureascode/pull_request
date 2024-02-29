@@ -24,3 +24,5 @@ Join my meetup: https://www.meetup.com/londoniac
 
 - **Subscribe to our YouTube Channel**: [Londoniac on YouTube](https://youtube.com/@LondonIAC)
  thanks
+
+ - **Join our Meetup now**: [Londoniac Meetup](https://www.meetup.com/londoniac) 
