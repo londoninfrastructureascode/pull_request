@@ -25,4 +25,6 @@ Join my meetup: https://www.meetup.com/londoniac
 - **Subscribe to our YouTube Channel**: [Londoniac on YouTube](https://youtube.com/@LondonIAC)
  thanks
 
- - **Join our Meetup now**: [Londoniac Meetup](https://www.meetup.com/londoniac) 
+ - **Join our Meetup now**: [Londoniac Meetup](https://www.meetup.com/londoniac)
+
+ - **Visit my website**: [tnsema](https://pero-s-academy.github.io/tnsema.io)
