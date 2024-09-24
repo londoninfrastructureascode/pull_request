@@ -1,10 +1,10 @@
 ## UPDATE
-For new people making changes and adding pull requests, please re-submit them. I had too many in a short period of time and because I didn;t merge them, new pull requests came in but caused a merge conflict. Now, it's been re-set please submit your merge requests again.
+For new people making changes and adding pull requests, please re-submit them. I had too many in a short period of time and because I didn't merge them, new pull requests came in but caused a merge conflict. Now, it has been reset. Please submit your merge requests again.
 
-*thanks*
+*Thanks*
 
 ## pull_request
-Try a fork and pull request from this repo. You name will go down as a contributer and be visable to anyone who visits.
+Try a fork and pull a request from this repo. Your name will go down as a contributor and be visible to anyone who visits.
 
 ### steps:
 1) Fork the repo
@@ -13,7 +13,7 @@ Try a fork and pull request from this repo. You name will go down as a contribut
 4) Create a pull request
 5) wait for it to be approved
 
-### Add an update below! (add in your company website or linkedin profile page?)
+### Add an update below! (add in your company website or LinkedIn profile page?)
 
 Join my meetup: https://www.meetup.com/londoniac
 
@@ -25,4 +25,11 @@ Join my meetup: https://www.meetup.com/londoniac
 - **Subscribe to our YouTube Channel**: [Londoniac on YouTube](https://youtube.com/@LondonIAC)
  thanks
 
- - **Join our Meetup now**: [Londoniac Meetup](https://www.meetup.com/londoniac) 
+ - **Join our Meetup now**: [Londoniac Meetup](https://www.meetup.com/londoniac)
+   
+## UPDATE
+Hello,
+My name is Charles and this is my first opensource contribution.
+I've also made some grammar changes to this repo. 
+Here's my website: https://read.cv/n51n3
+
